@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+opencv-python
+Pillow>=9.1
+joblib
+matplotlib

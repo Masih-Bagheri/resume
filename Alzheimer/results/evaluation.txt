@@ -1,0 +1,15 @@
+Training images: 430
+Validation images: 364
+Accuracy: 54.12%
+Error rate: 45.88%
+
+                  precision    recall  f1-score   support
+
+    MildDemented       0.59      0.54      0.56       100
+ModerateDemented       0.70      1.00      0.83        64
+     NonDemented       0.67      0.16      0.26       100
+VeryMildDemented       0.40      0.63      0.49       100
+
+        accuracy                           0.54       364
+       macro avg       0.59      0.58      0.53       364
+    weighted avg       0.58      0.54      0.51       364
